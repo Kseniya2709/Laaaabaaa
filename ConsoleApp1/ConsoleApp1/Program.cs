@@ -15,7 +15,7 @@ namespace ConsoleApp1
             string first = Console.ReadLine();
             Console.WriteLine("Enter last name: ");
             string last = Console.ReadLine();
-            Console.WriteLine("Hello, "+first+" "+last);
+            Console.WriteLine("Hello "+first+" "+last);
             Console.ReadLine();
         }
     }
